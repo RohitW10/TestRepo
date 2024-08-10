@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 4812-4315
+
+ Directory of D:\Automation_Testing\GIT Repo
+
+10-08-2024  19:20    <DIR>          .
+08-08-2024  15:32    <DIR>          ..
+07-08-2024  12:53               394 index.html
+07-08-2024  13:03                22 test1.txt
+10-08-2024  19:20                 0 test2.txt
+               3 File(s)            416 bytes
+               2 Dir(s)  99,318,554,624 bytes free
